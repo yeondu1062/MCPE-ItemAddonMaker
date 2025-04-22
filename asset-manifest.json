@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MCPE-ItemAddonMaker/static/css/main.576f09f5.css",
-    "main.js": "/MCPE-ItemAddonMaker/static/js/main.ace1404b.js",
-    "index.html": "/MCPE-ItemAddonMaker/index.html",
-    "main.576f09f5.css.map": "/MCPE-ItemAddonMaker/static/css/main.576f09f5.css.map",
-    "main.ace1404b.js.map": "/MCPE-ItemAddonMaker/static/js/main.ace1404b.js.map"
+    "main.css": "/react-ItemAddonMaker/static/css/main.576f09f5.css",
+    "main.js": "/react-ItemAddonMaker/static/js/main.ace1404b.js",
+    "index.html": "/react-ItemAddonMaker/index.html",
+    "main.576f09f5.css.map": "/react-ItemAddonMaker/static/css/main.576f09f5.css.map",
+    "main.ace1404b.js.map": "/react-ItemAddonMaker/static/js/main.ace1404b.js.map"
   },
   "entrypoints": [
     "static/css/main.576f09f5.css",
